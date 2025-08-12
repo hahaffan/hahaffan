@@ -1,4 +1,4 @@
-## Hi there 👋
+## howdy!
 <p>
   <a href="https://www.linkedin.com/in/hahaffan/">LinkedIn</a>
 </p>
