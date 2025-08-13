@@ -1,6 +1,5 @@
-
+## howdy!
 <p align="center">
-  ## howdy!
   <a href="hahaffan.github.io">About Me </a>
   <a href="https://www.linkedin.com/in/hahaffan/">LinkedIn</a> |
 </p>
