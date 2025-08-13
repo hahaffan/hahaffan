@@ -1,7 +1,12 @@
 ## howdy!
-<p>
-  <a href="https://www.linkedin.com/in/hahaffan/">LinkedIn</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hahaffan/">LinkedIn</a> |
+  <a href="hahaffan.github.io">About Me </a> 
 </p>
+<style>
+  font-family: "Lucida Console", monospace;
+  color: #ffcc00;
+</style>
 <!--
 **hahaffan/hahaffan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
