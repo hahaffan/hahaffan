@@ -1,6 +1,6 @@
 ## howdy!
 <p align="center">
-  <a href="hahaffan.github.io">About Me </a> |
+  <a href="[hahaffan.github.io](https://hahaffan.github.io)">About Me </a> |
   <a href="https://www.linkedin.com/in/hahaffan/">LinkedIn</a>
 </p>
 <!--
